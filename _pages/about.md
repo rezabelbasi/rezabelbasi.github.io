@@ -15,6 +15,7 @@ My work aims to develop learning methods that are statistically principled, comp
 
 ## News
 
-- **2026:** “It’s All in the Mix: Wasserstein Classification and Regression with Mixed Features” published in *Manufacturing & Service Operations Management*.
-- **2025:** Presented at the International Conference on Stochastic Programming in Paris.
-- **2024:** Presented at the International Symposium on Mathematical Programming in Montreal.
+- [“It’s All in the Mix: Wasserstein Classification and Regression with Mixed Features”](https://arxiv.org/abs/2312.12230) published in *Manufacturing & Service Operations Management* (M&SOM).
+- Presented our work at the [London Operations Research Day (LORD)](https://londonorday.github.io/2025-edition/index.html) in Oxford.
+- Presented our work at the [International Conference on Stochastic Programming (ICSP)](https://cermics-lab.enpc.fr/icsp2025/) in Paris.
+- Presented our work at the [International Symposium on Mathematical Programming (ISMP)](https://ismp2024.gerad.ca/) in Montreal.
