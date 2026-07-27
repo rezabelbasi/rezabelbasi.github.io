@@ -19,3 +19,4 @@ My work aims to develop learning methods that are statistically principled, comp
 - Presented our work at the [London Operations Research Day (LORD)](https://londonorday.github.io/2025-edition/index.html) in Oxford.
 - Presented our work at the [International Conference on Stochastic Programming (ICSP)](https://cermics-lab.enpc.fr/icsp2025/) in Paris.
 - Presented our work at the [International Symposium on Mathematical Programming (ISMP)](https://ismp2024.gerad.ca/) in Montreal.
+- [“Wasserstein Logistic Regression with Mixed Features”](https://arxiv.org/abs/2205.13501) published in *Advances in Neural Information Processing Systems* (NeurIPS).
