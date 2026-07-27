@@ -49,3 +49,11 @@
   padding: 3px;
   border: 1px solid var(--global-border-color);
 }
+
+/* Center the name under the profile photo */
+@media screen and (min-width: 1024px) {
+  .author__name {
+    width: 188px;
+    text-align: center;
+  }
+}
