@@ -7,16 +7,32 @@ author_profile: true
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">
-    You can also find my articles on
+    Publication details and links to the papers are available on
     <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
+    Below, I list the publicly available source-code repositories associated with my work.
   </div>
 {% endif %}
+
+<h2>Source Code</h2>
+
+<ul>
+  <li>
+    <a href="https://github.com/rezabelbasi/Wasserstein-Mixed-Features">
+      <em>It’s All in the Mix: Wasserstein Classification and Regression with Mixed Features</em>
+    </a>
+  </li>
+
+  <li>
+    <a href="https://github.com/selvi-aras/WassersteinLR">
+      <em>Wasserstein Logistic Regression with Mixed Features</em>
+    </a>
+  </li>
+</ul>
 
 {% comment %}
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category %}
     {% assign title_shown = false %}
