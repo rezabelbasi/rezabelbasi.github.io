@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Source Code"
+title: "Source Codes"
 permalink: /code/
 author_profile: true
 ---
